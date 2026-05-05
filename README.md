@@ -1,2 +1,2 @@
 # Project Star Version Changer
-File repository for the version switcher in Project Star. All versions can be found in releases.
+File repository for the version switcher in [Project Star](https://github.com/BionicBen/ProjectStarLauncher). All versions can be found in releases.
